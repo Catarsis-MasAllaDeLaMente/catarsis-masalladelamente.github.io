@@ -274,6 +274,7 @@ html, body
 }
 .customBorderRounding{
     border-top: solid 50px;
+    border-top-color: rgba(0, 0, 0, 0);
     box-sizing: content-box;
     position: relative;
     bottom: 50px;
